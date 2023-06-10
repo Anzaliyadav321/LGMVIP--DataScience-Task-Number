@@ -1,5 +1,10 @@
 # LGMVIP-DataScience-Intenship
-# TASK-1 Iris Flowers Classification ML
+# TASK-1 Iris Flowers Classification ML (Beginner-Level)
 this is a beginner level task. Data can be found at http://archive.ics.uci.edu/ml/datasets/Iris 
-# TASK-2 Stock Market Prediction And Forecasting Using Stacked LSTM
-this is a beginner level task
+# TASK-2 Stock Market Prediction And Forecasting Using Stacked LSTM (Beginner-Level)
+this is a beginner level task.
+Data can be found at: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+# TASK-2 Decision Tree Algorithm (Intermediate-Level)
+For the given 'iris' dataset, create decision Tree Classifier and visualize it graphically.
+Data can be found at: https://bit.ly/3kXTdox
+
