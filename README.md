@@ -7,4 +7,6 @@ Data can be found at: https://raw.githubusercontent.com/mwitiderrick/stockprice/
 # TASK-2 Decision Tree Algorithm (Intermediate-Level)
 For the given 'iris' dataset, create decision Tree Classifier and visualize it graphically.
 Data can be found at: https://bit.ly/3kXTdox
-
+# TASK-1 Develop A Neural Network That Can Read Handwriting (Advanced - Level)
+this is to begin neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN.
+Dataset can be found on MNIST
