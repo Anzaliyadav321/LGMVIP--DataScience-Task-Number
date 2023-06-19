@@ -13,6 +13,6 @@ Dataset can be found on MNIST
 # TASK-2 Next Word Prediction (Advanced - Level)
 Using Tensorflow and Keras library train a RNN, to predict the next word.
 Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
-# TASK-3 Handwritten Equation Solver using CNN
+# TASK-3 Handwritten Equation Solver using CNN (Advanced - Level)
 Mathematical equation solver using character and symbol recognition using image processing and CNN.
 Dataset Link: https://www.kaggle.com/xainano/handwrittenmathsymbols 
