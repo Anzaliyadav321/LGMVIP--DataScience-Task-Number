@@ -16,3 +16,8 @@ Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/
 # TASK-3 Handwritten Equation Solver using CNN (Advanced - Level)
 Mathematical equation solver using character and symbol recognition using image processing and CNN.
 Dataset Link: https://www.kaggle.com/xainano/handwrittenmathsymbols 
+# TASK-1 Exploratory Data Analysis on Dataset Terrorism (Intermediate - level)
+As a security/defense analyst, try to find out the hot zone of terrorism.
+Dataset Link: https://bit.ly/2TK5Xn5
+
+
