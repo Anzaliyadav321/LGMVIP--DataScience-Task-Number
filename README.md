@@ -21,4 +21,7 @@ As a security/defense analyst, try to find out the hot zone of terrorism.
 Dataset Link: https://bit.ly/2TK5Xn5
 # TASK-4 ML Facial recognition to detect mood and suggest songs accordingly(Advanced - Level)
 Dataset Link : https://www.kaggle.com/datasets/msambare/fer2013
+# TASK-3 Music Recommendation System (Beginner - Level)
+Music recommender systems can suggest songs to users based on their listening patterns.
+Dataset Link: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 
